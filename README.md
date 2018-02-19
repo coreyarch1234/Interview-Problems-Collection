@@ -14,5 +14,5 @@
 - Each problem in the folder is comprised of the problem description and multiple solutions/test cases created by you!
 - Specific Instructions are located in the folder.
 
-* Do not look at people's solutions before genuinely attempting the problem on your own.
-* Ask to be a collaborator so that you can push your own solutions and problems to this repo. Happy solving!
+#### Do not look at people's solutions before genuinely attempting the problem on your own.
+#### Ask to be a collaborator so that you can push your own solutions and problems to this repo. Happy solving!
