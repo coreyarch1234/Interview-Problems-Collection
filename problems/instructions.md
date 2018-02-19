@@ -13,11 +13,11 @@ This will contain all of the problems Make Schoolers have encountered in:
 - Write your solution with a solution number in the format:
     - Solution 1, 2, 3, ...
 
-# Note: Try your best to make sure the proposed solution works (try as many test cases as possible). If you are unsure, leave a note that you have not fully tested the proposed solution. Feel free to leave test cases in the solution!
+* Note: Try your best to make sure the proposed solution works (try as many test cases as possible). If you are unsure, leave a note that you have not fully tested the proposed solution. Feel free to leave test cases in the solution!
 
 ## Example of a Good Submission:
 - File Name: binary_tree_max_depth.py
-- Problem Description and Solution
+- Problem Description and Solution:
 ```
 # https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 #
